@@ -5,8 +5,8 @@ obj/
 Packages/
 Temp/
 .github/
-UserSettings/
-ProjectSettings/
+# UserSettings/
+# ProjectSettings/
 Assets/Plugins/
 *.vsconfig
 *.sln
