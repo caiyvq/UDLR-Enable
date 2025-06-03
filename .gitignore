@@ -1,0 +1,14 @@
+Library/
+.vs/
+Logs/
+obj/
+Packages/
+Temp/
+.github/
+UserSettings/
+ProjectSettings/
+Assets/Plugins/
+*.vsconfig
+*.sln
+*.csproj
+*.meta
